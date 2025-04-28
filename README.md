@@ -1,4 +1,4 @@
-### Hello, my name is Leo 👋
+### 👋 Hello, my name is Leo
 
 I'm an Armenian-American developer based in Glendale, CA who's passionate about creating scalable and responsive applications with modern libraries and frameworks. I specialize in full-stack development, and work with a variety of technologies.
 
